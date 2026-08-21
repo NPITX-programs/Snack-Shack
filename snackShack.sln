@@ -5,8 +5,9 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snackShack", "snackShack.csproj", "{0B7C67A3-C011-4C1B-AAE5-E8233779010F}"
 EndProject
-	ProjectSection(SolutionItems) = preProject
-	EndProjectSection
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project2", "Project2", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snackShack", "..\Snack-Shack-2\snackShack.csproj", "{1855EEDC-A659-4D31-B976-ACEF2B3918FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,9 +19,16 @@ Global
 		{0B7C67A3-C011-4C1B-AAE5-E8233779010F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B7C67A3-C011-4C1B-AAE5-E8233779010F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B7C67A3-C011-4C1B-AAE5-E8233779010F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1855EEDC-A659-4D31-B976-ACEF2B3918FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1855EEDC-A659-4D31-B976-ACEF2B3918FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1855EEDC-A659-4D31-B976-ACEF2B3918FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1855EEDC-A659-4D31-B976-ACEF2B3918FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1855EEDC-A659-4D31-B976-ACEF2B3918FE} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1CF31452-80A0-4948-B973-A569A188D94A}

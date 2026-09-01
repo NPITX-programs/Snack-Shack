@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Preset Images", "Preset Images", "{161C05D0-567B-4D3B-BC57-525B1DB3F88F}"
 	ProjectSection(SolutionItems) = preProject
 		presetImages\2fer.jpg = presetImages\2fer.jpg
+		presetImages\AD3_SupplyCloset.drawio = presetImages\AD3_SupplyCloset.drawio
 		presetImages\airheads.jpg = presetImages\airheads.jpg
 		presetImages\almondjoy.png = presetImages\almondjoy.png
 		presetImages\butterfinger.jpg = presetImages\butterfinger.jpg
@@ -17,6 +18,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Preset Images", "Preset Ima
 		presetImages\hubbabubba.jpg = presetImages\hubbabubba.jpg
 		presetImages\icecubesgum.jpg = presetImages\icecubesgum.jpg
 		presetImages\images.jpg = presetImages\images.jpg
+		presetImages\Interface Template Image.png = presetImages\Interface Template Image.png
 		presetImages\juicyfruit.jpg = presetImages\juicyfruit.jpg
 		presetImages\kettlecookedruben.jpg = presetImages\kettlecookedruben.jpg
 		presetImages\kitkat.jpg = presetImages\kitkat.jpg
@@ -30,6 +32,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Preset Images", "Preset Ima
 		presetImages\ruffles.jpg = presetImages\ruffles.jpg
 		presetImages\snickers.jpg = presetImages\snickers.jpg
 		presetImages\utz.jpg = presetImages\utz.jpg
+		presetImages\VendingMachine.ico = presetImages\VendingMachine.ico
 	EndProjectSection
 EndProject
 Global
